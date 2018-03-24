@@ -4,7 +4,7 @@
 
 给定一张风格图片A和内容图片B，能够生成具备A图片风格和B图片内容的图片C。
 
-下面给出两个示例，风格图片都使用梵高的星空：
+下面给出两个示例，风格图片都使用梵高的星夜：
 
 ![风格图片](https://raw.githubusercontent.com/AaronJny/nerual_style_change/master/sample/input_style_1.jpg)
 
@@ -33,6 +33,8 @@
 
 ![生成图片2](https://raw.githubusercontent.com/AaronJny/nerual_style_change/master/sample/output_2.jpg)
 
+
+更多详情请移步博客[https://blog.csdn.net/aaronjny/article/details/79681080](https://blog.csdn.net/aaronjny/article/details/79681080)
 
 ----------------------
 
