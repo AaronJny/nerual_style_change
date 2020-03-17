@@ -1,3 +1,12 @@
+此项目使用Python2.7+TensorFlow 1.4编写，环境太过古老，可能无法正常运行起来。
+
+如有需要，请移步我使用Python 3.7 + TensorFlow 2.0重写的版本：
+
+[DeepLearningExamples/tf2-neural-style-transfer](https://github.com/AaronJny/DeepLearningExamples/tree/master/tf2-neural-style-transfer)
+
+
+-------------------------
+
 # 使用VGG19迁移学习实现图像风格迁移
 
 这是一个使用预训练的VGG19网络完成图片风格迁移的项目，使用的语言为python，框架为tensorflow。
